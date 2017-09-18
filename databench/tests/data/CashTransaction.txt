@@ -1,0 +1,10 @@
+200000000000012|2005-01-03 09:00:01.057|11347.06|Market-Sell 400 shares of COMMON of Herman Miller, Inc.
+200000000000037|2005-01-03 09:00:01.061|2886.23|Market-Sell 100 shares of COMMON of Dixie Group, Inc.
+200000000000036|2005-01-03 09:00:01.071|18742.86|Market-Sell 800 shares of COMMON of Evercel, Inc.
+200000000000102|2005-01-03 09:00:01.103|-4867.95|Market-Buy 200 shares of COMMON of HealthTronics Surgical Services, Inc.
+200000000000014|2005-01-03 09:00:01.103|5417.91|Market-Sell 200 shares of COMMON of Vista Medical Technologies, Inc.
+200000000000101|2005-01-03 09:00:01.108|-2823.61|Market-Buy 100 shares of PREF_A of Engage, Inc.
+200000000000082|2005-01-03 09:00:01.115|-2700.17|Market-Buy 100 shares of COMMON of ICO, Inc.
+200000000000122|2005-01-03 09:00:01.123|16549.68|Market-Sell 800 shares of PREF_B of Anadarko Petroleum Corporation
+200000000000088|2005-01-03 09:00:01.127|20801.08|Market-Sell 800 shares of PREF_C of Media 100, Inc.
+200000000000018|2005-01-03 09:00:01.129|-16185.25|Market-Buy 800 shares of PREF_C of Great Plains Energy, Inc.

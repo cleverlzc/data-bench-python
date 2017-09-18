@@ -1,0 +1,5 @@
+'''
+'''
+
+class DatabenchBaseException(Exception):
+	pass

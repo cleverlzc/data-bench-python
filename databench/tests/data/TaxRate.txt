@@ -1,0 +1,10 @@
+US1|U.S. Income Tax Bracket for the poor|0.15000
+US2|U.S. Income Tax Bracket for the huddled masses|0.27500
+US3|U.S. Income Tax Bracket for the masses|0.30500
+US4|U.S. Income Tax Bracket for the well to do|0.35500
+US5|U.S. Income Tax Bracket for the filthy rich|0.39100
+CN1|Canadian Income Tax for the poor|0.16000
+CN2|Canadian Income Tax for the huddled masses|0.22000
+CN3|Canadian Income Tax for the well to do|0.26000
+CN4|Canadian Income Tax for the filthy rich|0.29000
+AB1|Alberta Income Tax for children|0.00000

@@ -1,0 +1,10 @@
+AA|Apparel/Accessories|CC
+AC|Air Courier|TR
+AD|Aerospace & Defense|CG
+AE|Advertising|SV
+AM|Auto & Truck Manufacturers|CC
+AP|Auto & Truck Parts|CC
+AR|Airline|TR
+AT|Appliance & Tool|CC
+AV|Audio & Video Equipment|CC
+BA|Beverages (Alcoholic)|CN
