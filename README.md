@@ -27,10 +27,6 @@ images defined in the [databench-containers][4].
 
 ## Contacts
 
-## License
-
-<!-- MIT? -->
-
 [0]: http://intel.com
 [1]: https://github.com/INTEL_ORG_TDB/databench
 [2]: https://github.com/INTEL_ORG_TDB/databench-python
