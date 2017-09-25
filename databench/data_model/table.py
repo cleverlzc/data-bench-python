@@ -28,7 +28,7 @@ class Table(object):
     @classmethod
     def withRowFactory(cls, path, rowFactoryName, seed=0, sep='|'):
         table = cls(path, seed, sep)
-        table.rowFactory = Schemas.createRowFactory(rowFactoryName)
+        table.rowFactory = Schemas.tableRowFactory(rowFactoryName)
         return table
 
     
