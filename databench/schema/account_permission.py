@@ -13,3 +13,15 @@
 #   See the License for the specific language governing permissions and
 #   limitations under the License.
 #    
+'''
+'''
+
+from collections import namedtuple
+
+
+_fields= ['AP_CA_ID','AP_ACL', 'AP_TAX_ID', 'AP_F_NAME','AP_L_NAME']
+         
+
+
+class AccountPermissions(namedtuple('AccountPermissions',_fields)):
+    pass
