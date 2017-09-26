@@ -15,14 +15,14 @@
    limitations under the License.
     
 -->
-# Databench Python Package
+# Data Bench Python Package
 
 ## Overview
 
-The [databench-python][2] package provides data schemas and python
-tools for working with [databench-data][3] to create the [databench][1]
+The [data-bench-python][2] package provides data schemas and python
+tools for working with [data-bench-data][3] to create the [data-bench][1]
 transaction generators and consumers that are packaged in Docker
-images defined in the [databench-containers][4]. 
+images defined in the [data-bench-containers][4]. 
 
 ## Installation
 
@@ -45,7 +45,7 @@ images defined in the [databench-containers][4].
 ## Contacts
 
 [0]: http://intel.com
-[1]: https://github.com/INTEL_ORG_TDB/databench
-[2]: https://github.com/INTEL_ORG_TDB/databench-python
-[3]: https://github.com/INTEL_ORG_TDB/databench-data
-[4]: https://github.com/INTEL_ORG_TDB/databench-containers
+[1]: https://github.com/Data-Bench/data-bench
+[2]: https://github.com/Data-Bench/data-bench-python
+[3]: https://github.com/Data-Bench/data-bench-data
+[4]: https://github.com/Data-Bench/data-bench-containers
