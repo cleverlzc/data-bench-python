@@ -32,13 +32,13 @@ except FileNotFoundError:
     version = '0.0.0'
 
 
-download_url = 'https://github.intel.com/eoshaugh/databench/archive/{}.tar.gz'
+download_url = 'https://github.com/Data-Bench/data-bench-python/archive/{}.tar.gz'
 
 setup(name='databench',
       version=version,
       description='data model',
       long_description=long_description,
-      url='https://github.intel.com/...',
+      url='https://github.com/Data-Bench/data-bench-python',
       download_url=download_url.format(version),
       author="Erik O'Shaughnessy",
       author_email="erik.oshaughnessy@intel.com",
